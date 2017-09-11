@@ -6,7 +6,7 @@ Created on Mon Sep 11 11:55:34 2017
 
 import pandas as pd
 #########################################
-#RUN FAN BRAND FLOWS OVER TIME.PY
+# RUN FAN BRAND FLOWS OVER TIME.PY
 #########################################
 # Find flow of fans between stars over time
 
